@@ -18,7 +18,7 @@ def first_challenge
       value.delete_if do |value|
       value == "strawberry"
   end
-
+end
   
 
 
