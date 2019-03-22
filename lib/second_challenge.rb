@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-  groceries.values.splie(", ")
+  groceries.values.join(", ").split
   
 
 end
