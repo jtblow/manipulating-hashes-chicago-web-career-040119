@@ -16,6 +16,7 @@ def first_challenge
   contacts["Freddy_Mercury"].delete_if do |key, value|
     value == "strawberry"
   end
+end
   end
   
 
