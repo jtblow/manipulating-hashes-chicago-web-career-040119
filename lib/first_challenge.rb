@@ -17,7 +17,7 @@ def first_challenge
     :favorite_icecream_flavors == "strawberry"
   end
   end
-  end
+  
 
 
   #remember to return your newly altered contacts hash!
